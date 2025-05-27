@@ -12,7 +12,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyDGb2259t3AccbzQAeJtR8PiRtzNsk4Exk",
   authDomain: "finance-tracker-c8c95.firebaseapp.com",
   projectId: "finance-tracker-c8c95",
-  storageBucket: "finance-tracker-c8c95.firebasestorage.app",
+  storageBucket: "finance-tracker-c8c95.appspot.com",
   messagingSenderId: "629743407339",
   appId: "1:629743407339:web:618fd709f2264ed3f1aeae",
   measurementId: "G-2GJHFYFDHJ"
